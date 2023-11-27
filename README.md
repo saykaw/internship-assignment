@@ -11,3 +11,10 @@ The most challenging part of the entire website was the slanted section and its 
 ![Local Image](Screenshot%202023-11-27%20at%208.44.55%20PM.png)
 ![Local Image](Screenshot%202023-11-27%20at%208.45.03%20PM.png)
 ![Local Image](Screenshot%202023-11-27%20at%208.45.09%20PM.png)
+
+
+Responsiveness :
+This is how the site looks on my mobile: 
+
+![Local Image](mobile1.png)
+![Local Image](mobile2.png)
