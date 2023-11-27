@@ -16,5 +16,5 @@ The most challenging part of the entire website was the slanted section and its 
 Responsiveness :
 This is how the site looks on my mobile: 
 
-![Local Image](mobile1.png)
-![Local Image](mobile2.png)
+![Local Image](mobile1.jpeg)
+![Local Image](mobile2.jpeg)
