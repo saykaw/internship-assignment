@@ -7,3 +7,7 @@ The most challenging part of the entire website was the slanted section and its 
 
 
 ![Local Image](Screenshot%202023-11-27%20at%208.44.32%20PM.png)
+![Local Image](Screenshot%202023-11-27%20at%208.44.42%20PM.png)
+![Local Image](Screenshot%202023-11-27%20at%208.44.55%20PM.png)
+![Local Image](Screenshot%202023-11-27%20at%208.45.03%20PM.png)
+![Local Image](Screenshot%202023-11-27%20at%208.45.09%20PM.png)
