@@ -6,4 +6,4 @@ I decided to go with the same colour palette as that of CodeClause as the palett
 The most challenging part of the entire website was the slanted section and its responsiveness. After brainstorming and playing around with CSS, I was able to achieve the layout.
 
 
-![Local Image](Screenshot 2023-11-27 at 8.44.32 PM.png)
+![Local Image](Screenshot%202023-11-27%20at%208.44.32%20PM.png)
