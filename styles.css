@@ -21,7 +21,7 @@ img{
 hr{
     border: none;
     height: 1px;
-    background-color: #ccc; /* Change this color to your preference */
+    background-color: #ccc; 
     margin: 1rem 0;
 }
 /* navbar styles */
@@ -409,7 +409,6 @@ header{
         margin-bottom: 7rem;
     }
     .feature-box{
-        /* background: rgb(76, 0, 255); */
         margin-bottom: 0;
     }
     .feature-box i{
@@ -437,11 +436,9 @@ header{
         align-items: center;
     }
     .accordion-question{
-        /* font-size: 1px; */
         text-align: center;
     }
     .accordion-answer{
-        /* font-size: 17px; */
         text-align: center;
     }
 
